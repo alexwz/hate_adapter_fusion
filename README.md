@@ -1,1 +1,2 @@
-# hate_adapter_fusion
+# Hate Speech Adapter Fusion Repository
+
