@@ -7,7 +7,7 @@ This repo contains resources and source code for adapter fusion on hate speech d
  - *stella_pl_hate_train_adapter.py* - Polish adapter training
 
 ## Adapter fusion implementations:
- - *stella_hate_adapter_fusion.py* - implementations of Layer-weighted task-vector scaling, Layer-selective interpolation, Head-only transfer and Knowledge distillation
- - *stella_hate_adapter_fusion_gating.py* - Gated logit fusion
- - *stella_hate_weight_merge_ties.py* - TIES + DARE method
- - *stella_hate_weight_merge_ties_fisher.py* - Fisher-weighted TIES + DARE
+ - *[stella_hate_adapter_fusion.py](stella_hate_adapter_fusion.py)* - implementations of Layer-weighted task-vector scaling, Layer-selective interpolation, Head-only transfer and Knowledge distillation
+ - *[stella_hate_adapter_fusion_gating.py](stella_hate_adapter_fusion_gating.py)* - Gated logit fusion
+ - *[stella_hate_weight_merge_ties.py](stella_hate_weight_merge_ties.py)* - TIES + DARE method
+ - *[stella_hate_weight_merge_ties_fisher.py](stella_hate_weight_merge_ties_fisher.py)* - Fisher-weighted TIES + DARE
